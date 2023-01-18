@@ -1,0 +1,23 @@
+{
+  "short_name": "Sander!",
+  "name": "Sander Verweij",
+  "theme_color": "#444",
+  "background_color": "#fff",
+  "icons": [
+    {
+      "src": "assets/mug-144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/mug-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "lang": "en",
+  "orientation": "portrait"
+}
